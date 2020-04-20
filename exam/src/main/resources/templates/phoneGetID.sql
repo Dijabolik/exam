@@ -1,0 +1,1 @@
+SELECT id.phone, typeOf.phone FROM phone;
